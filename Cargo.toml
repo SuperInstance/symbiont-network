@@ -1,0 +1,7 @@
+[package]
+name = "symbiont-network"
+version = "0.1.0"
+description = "Symbiotic relationships between agent pairs with mutualism, parasitism, commensalism, and fitness tracking"
+repository = "https://github.com/SuperInstance/symbiont-network"
+license = "MIT"
+edition = "2021"
